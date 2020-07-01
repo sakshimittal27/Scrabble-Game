@@ -1,1 +1,2 @@
 # Scrabble-Game
+This project asks the user to enter a heap of letters and then checks in the dictionary (which is already sorted according to the lengths of the words in it) that if there is any word which can be formed out of the given heap of letters. If yes, the program calculates it's score. And the process goes on.The word with the best score is stored in the variable, "bestword". If no word can be formed out of the heap of letters, the compiler simply shows that no word can be formed.
